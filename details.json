@@ -14,7 +14,7 @@
   },
   { //T2 M,T,W,Th 
     "Name": "Dennis Ham",
-    "Email": "v-deham@microsoft.com",
+    "Email": "deham",
     "Start": "9:00",
     "End": "11:00",
     "Days": [
