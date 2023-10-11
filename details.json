@@ -1,1 +1,87 @@
-
+   { //T2 M,W,Th,F 
+    "Name": "Esra Usta",
+    "Email": "esusta",
+    "Start": "10:00",
+    "End": "12:00",
+    "Days": [
+      "1",
+      "3",
+      "4",
+      "5"
+    ],
+    "TimeZone":"Pacific Standard Time",
+    "BugAssignmentLoad": 1
+  },
+  { //T2 M,T,W,Th 
+    "Name": "Dennis Ham",
+    "Email": "v-deham@microsoft.com",
+    "Start": "9:00",
+    "End": "11:00",
+    "Days": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "TimeZone":"Pacific Standard Time",
+    "BugAssignmentLoad": 1
+  },
+  { //T1 M,T,W,Th,F 
+    "Name": "Connor McKay",
+    "Email": "comcka",
+    "Start": "12:00",
+    "End": "15:00",
+    "Days": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "TimeZone":"Pacific Standard Time",
+    "BugAssignmentLoad": 1
+  },
+  { //T1 M,T,W,Th,F 
+    "Name": "Eric Maxon",
+    "Email": "ericmaxon",
+    "Start": "11:00",
+    "End": "14:00",
+    "Days": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "TimeZone":"Pacific Standard Time",
+    "BugAssignmentLoad": 1
+  },
+  { //rotating
+    "Name": "Sukesh Penta Reddy",
+    "Email": "sukeshp",
+    "Start": "05:00",
+    "End": "10:00",
+    "Days": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "TimeZone":"Pacific Standard Time",
+    "BugAssignmentLoad": 1
+  },
+  { //Permanent  
+    "Name": "Vinod Kumar",
+    "Email": "vinodku",
+    "Start": "04:00",
+    "End": "06:00",
+    "Days": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"     
+    ],
+    "TimeZone":"Pacific Standard Time",
+    "BugAssignmentLoad": 1
